@@ -1,5 +1,4 @@
 package org.example;
-import java.text.SimpleDateFormat;
 import java.util.*;
 
 public class DayOfWeek {
